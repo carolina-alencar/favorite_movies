@@ -1,0 +1,45 @@
+
+h1{
+    background-color:white;
+   
+}
+h2 {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 3%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.link{
+    margin-left: 95%;
+    color: rgb(212, 14, 14);
+    text-decoration: none;
+}
+h3{
+    color: aliceblue;
+}
+ p{ 
+    color: aliceblue;  
+ }
+ .filme{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: aliceblue;
+    line-height: 200%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 3%;
+    text-align: justify;
+ }
+ .filme img {
+    margin-right: 15px;
+    margin-left: 3%;
+ }
+ .filme h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 3px;
+    margin-top:50px;
+ }
+ body{
+    background:-webkit-linear-gradient(left, #3d3c3d, #020202);
+    lin
+ }
