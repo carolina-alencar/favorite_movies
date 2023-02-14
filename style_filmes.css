@@ -8,6 +8,7 @@ h2 {
     color: aliceblue;
     margin-top: 3%;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    
 }
 .link{
     margin-left: 95%;
@@ -40,6 +41,7 @@ h3{
     margin-top:50px;
  }
  body{
+   margin-bottom: 5%;
     background:-webkit-linear-gradient(left, #3d3c3d, #020202);
     lin
  }
