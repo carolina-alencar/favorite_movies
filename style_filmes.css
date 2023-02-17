@@ -12,8 +12,10 @@ h2 {
 }
 .link{
     margin-left: 95%;
-    color: rgb(212, 14, 14);
+    color: rgb(253, 252, 252);
     text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
 }
 h3{
     color: aliceblue;
