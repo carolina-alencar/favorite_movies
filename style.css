@@ -1,4 +1,8 @@
-
+body{
+    background-image: url('imagens/cine.webp');
+    background-size: cover;
+    background-position: center;
+}
 .logo{
     background-color:white;     
 }
@@ -12,17 +16,18 @@
 p{
     color: aliceblue;
     font-family:cursive;
+    line-height: 1.5;
     margin: 0;
 }
 .imagens li{
     display: inline-block;
     vertical-align: top;
-    margin: 10px;
-    text-align: center;
-    margin-left: 4%; 
-    margin-top: 10%;
+    text-align: center; 
+    margin-top: 8%;
+    margin-left: 7%;
+    transition: transform 0.2s ease-out;
 }
-body{
-    background:-webkit-linear-gradient(left, #3d3c3d, #060606);
-    lin
+
+.imagens li img:hover {
+    transform: scale(1.1);
 }
